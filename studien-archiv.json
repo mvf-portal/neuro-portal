@@ -1,1 +1,93 @@
-[]
+[
+ {
+  "pmid": "43021092",
+  "journal": "BMC Neurol",
+  "year": "2026",
+  "author": "Rinkel LA et al.",
+  "pubdate": "18.08.2026",
+  "added": "12.11.2026",
+  "transfer": "Europäische Stroke-Unit-Daten, vergleichbare Thrombektomie-Standards",
+  "title": "Geschlecht und Alter beeinflussen Outcome nach Thrombektomie beim akuten Hirninfarkt",
+  "sum": "Prospektive multizentrischen Registerstudie an 12.915 Patienten zur Frage, ob Frauen nach endovaskulärer Therapie schlechtere funktionelle Outcomes haben und ob dieser Unterschied altersabhängig ist.",
+  "result": "Bei Frauen unter 74 Jahren war das Outcome nach Thrombektomie signifikant schlechter (adjustierte Odds Ratio 1,10; 95%-KI 1,003–1,20), nicht aber bei älteren Patientinnen. Insgesamt zeigten Frauen in unangepasster Analyse schlechtere Ergebnisse (cOR 1,22), die sich aber nach Adjustierung für Alter und andere Faktoren aufhoben (acOR 1,02).",
+  "aufgenommen": "2026-11-13"
+ },
+ {
+  "pmid": "43016687",
+  "journal": "Front Neurol",
+  "year": "2026",
+  "author": "Sekita A et al.",
+  "pubdate": "28.10.2026",
+  "added": "12.11.2026",
+  "transfer": "Deutsche Universitäts-Stroke-Unit, direkt auf deutsches System übertragbar",
+  "title": "Tenecteplase verbessert Behandlungszeit und ist sicher in der Routine beim Hirninfarkt",
+  "sum": "Retrospektive Kohortenstudie einer deutschen Stroke Unit über den Wechsel von Alteplase auf Tenecteplase bei 591 Patienten mit intravenöser Thrombolyse, davon 31% im erweiterten Zeitfenster und 14% unter oralen Antikoagulanzien.",
+  "result": "Tenecteplase führte zu signifikant kürzeren Door-to-Needle-Zeiten (31 vs. 35 min, p=0,004), hauptsächlich durch verkürzte Imaging-to-Needle-Intervalle (13 vs. 16 min, p=0,004). Hirnblutungsraten waren vergleichbar (8% vs. 7%, p=0,61). Auch in erweiterten Zeitfenstern und unter Antikoagulation keine erhöhten Sicherheitsbedenken.",
+  "aufgenommen": "2026-11-13"
+ },
+ {
+  "pmid": "43016165",
+  "journal": "Eur Stroke J",
+  "year": "2026",
+  "author": "Ekaputri PA et al.",
+  "pubdate": "02.11.2026",
+  "added": "12.11.2026",
+  "transfer": "Schwedisches Gesundheitssystem, ähnlich sozialversicherter Aufbau wie Deutschland",
+  "title": "Nach Herzinfarkt steigt das Schlaganfallrisiko im ersten Jahr um 1,1 % an",
+  "sum": "Schwedische Registerauswertung von 85.360 Herzinfarkt-Überlebenden mit Follow-up von durchschnittlich 14,6 Jahren zur Schlaganfallhäufigkeit und deren Risikofaktoren.",
+  "result": "Die Schlaganfallhäufigkeit war mit etwa 1,1% im ersten Jahr nach MI am höchsten und nahm dann ab. Reduzierte linksventrikuläre Ejektionsfraktion (30–39%: sHR 1,47; <30%: sHR 1,62) und Vorhofflimmern (sHR 2,21) waren unabhängige Risikofaktoren. Orale Antikoagulation reduzierte das Schlaganfallrisiko bei Patienten mit Vorhofflimmern (Interaktions-sHR 0,45).",
+  "aufgenommen": "2026-11-13"
+ },
+ {
+  "pmid": "43015888",
+  "journal": "Scand J Trauma Resusc Emerg Med",
+  "year": "2026",
+  "author": "Röhrs K et al.",
+  "pubdate": "09.11.2026",
+  "added": "11.11.2026",
+  "transfer": "Deutsches Notfallsystem, Charité Berlin, direkt auf vergleichbare Systeme übertragbar",
+  "title": "Neurologen in der Mobile Stroke Unit intubieren sicher, aber selten außerhalb von Schlaganfällen",
+  "sum": "Retrospektive Registerstudie einer neurologen-bemannten Mobile Stroke Unit in Berlin über 3.887 Einsätze von August 2024 bis März 2026 zur Häufigkeit und Erfolgsrate von Intubationen.",
+  "result": "Endotracheale Intubation trat in 49 Einsätzen auf (1,26%): nur 2 bei Schlaganfall-Einsätzen (0,11%) versus 47 bei Non-Stroke-Einsätzen (2,20%). Erfolgsrate 100%, First-Pass-Success in 87,8% (43/49), alle mit Videolaryngoskopie und 98% mit kapnographischer Bestätigung. Herzstillstand war häufigste Indikation.",
+  "aufgenommen": "2026-11-13"
+ },
+ {
+  "pmid": "43013791",
+  "journal": "Neurology",
+  "year": "2026",
+  "author": "Jürgens-Wemheuer WM et al.",
+  "pubdate": "08.12.2026",
+  "added": "11.11.2026",
+  "transfer": "Deutsche und schweizer Neurologische Zentren, nicht-invasiver Biomarker-Test",
+  "title": "Speicheldrüsenbiopsie mit RT-QuIC diagnostiziert Parkinson-Krankheit zu 82% sicher",
+  "sum": "Prospektive Studie mit 25 Patienten mit klinischem Parkinson und 25 Kontrollen zur Validierung einer nicht-invasiven RT-QuIC-Methode zum Nachweis von α-Synuklein-Aggregaten in Speicheldrüsen als In-vivo-Biomarker.",
+  "result": "RT-QuIC detektierte α-Synuklein-Aggregate mit einer Sensitivität von 81,8% (stieg auf 90% nach klinischem Follow-up) und 100% Spezifität; Genauigkeit 90,2% (95%-KI 76,6–96,4%) bzw. 95,1% (82,9–98,7%) nach Follow-up. Damit vergleichbar mit klinischer Diagnose, wenn Neuropathologie als Goldstandard gilt.",
+  "aufgenommen": "2026-11-13"
+ },
+ {
+  "pmid": "43013790",
+  "journal": "Neurology",
+  "year": "2026",
+  "author": "Melin S et al.",
+  "pubdate": "08.12.2026",
+  "added": "11.11.2026",
+  "transfer": "Schweden, vergleichbares Gesundheitssystem; Screening auf Substanzabusus könnte Prävention verbessern",
+  "title": "Substanzabusus und Anfallsfrequenz verdoppeln bis verzehnfachen das Suizidrisiko bei Epilepsie",
+  "sum": "Schwedische nationale Fall-Kontroll-Studie mit 111 Suizid-Fällen und 1.147 Kontrollen von 2006–2011 zur Identifizierung von klinischen Risikofaktoren für Suizid bei Epilepsie-Patienten.",
+  "result": "Alkoholabusus (OR 11,81; 95%-KI 6,25–22,30) und Substanzabusus (OR 10,71; 4,52–25,38) zeigten stärkere Assoziationen als Depression (OR 2,94) oder Angststörungen (OR 2,93). Alleinleben (OR 2,59), Anfallshäufigkeit 4–10/Jahr (OR 5,01) und strukturelle/unbekannte Ätiologie (OR 3,07–8,80) erhöhten das Risiko. Antiseizure-Medikationen waren schützend; Nonadherence verdoppelte das Risiko (OR 3,02).",
+  "aufgenommen": "2026-11-13"
+ },
+ {
+  "pmid": "43008260",
+  "journal": "Neurology",
+  "year": "2026",
+  "author": "Ingwersen T et al.",
+  "pubdate": "08.12.2026",
+  "added": "10.11.2026",
+  "transfer": "Deutschland, gemischte Evidenz; Bypass-Protokolle benötigen Risikostratifizierung und weitere Validierung",
+  "title": "Direkter Transport ins Thrombektomie-Zentrum verkürzt Zeit und verbessert Outcome, erhöht aber Hirnblutungs-Mortalität",
+  "sum": "Systematische Übersicht und Metaanalyse von 18 Studien (14.516 Patienten, davon 2 RCTs) zum Vergleich direkten Transports ins umfassende Stroke Center versus nächstgelegenes Zentrum bei schwerem Schlaganfall mit Gefäßverschluss.",
+  "result": "Bypass-Patienten hatten schneller Leisten-Punktion (-63,9 min), ähnliche EVT-Raten (OR 1,52; 95%-KI 0,98–2,35) und ähnliche Thrombolyse-Raten (OR 1,12; 0,92–1,35). Funktionelle Unabhängigkeit (mRS 0–2) war häufiger (OR 1,23; 1,04–1,45). Bei intrakraniellen Blutungen zeigte Bypass aber erhöhte Mortalität (RR 1,30; 1,02–1,64).",
+  "aufgenommen": "2026-11-13"
+ }
+]
