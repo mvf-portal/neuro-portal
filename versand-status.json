@@ -1,31 +1,30 @@
 {
  "hub": "Knowledge-Hub Neurologie",
  "domain": "neuro.m-vf.de",
- "datum": "2026-11-25",
+ "datum": "2026-11-26",
  "stand": "terminiert",
- "titel": "MVF Neurologie-Newsletter 25.11.2026",
- "betreff": "Neueste Studien - Neurologie – 25. November 2026",
- "anzahl": 6,
+ "titel": "MVF Neurologie-Newsletter 26.11.2026",
+ "betreff": "Neueste Studien - Neurologie – 26. November 2026",
+ "anzahl": 5,
  "pmids": [
-  "43077655",
-  "43076488",
-  "43076431",
-  "43074119",
-  "43073378",
-  "43073295"
+  "43081948",
+  "43080326",
+  "43080274",
+  "43080232",
+  "43079149"
  ],
- "kampagne": "https://us6.admin.mailchimp.com/campaigns/edit?id=9100147",
- "termin_utc": "2026-11-25T09:00:00+00:00",
- "empfaenger": 2,
- "listengroesse": 5840,
+ "kampagne": "https://us6.admin.mailchimp.com/campaigns/edit?id=9100165",
+ "termin_utc": "2026-11-26T09:00:00+00:00",
+ "empfaenger": 1,
+ "listengroesse": 5838,
  "beanstandungen": [],
  "aussortiert": [],
  "pool": {
   "geholt": 220,
-  "bekannt": 68,
-  "pool": 49,
-  "gewaehlt": 6,
-  "neu": 6
+  "bekannt": 69,
+  "pool": 53,
+  "gewaehlt": 5,
+  "neu": 5
  },
  "rubriken": {
   "news": "9c9c3a99e1ec4ea4",
