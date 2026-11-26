@@ -2403,26 +2403,17 @@ const DB = [
 
 // Momentaufnahme neuester Studien (PubMed, nach Datum sortiert) — deutsche Zusammenfassungen
 // === STUDIES-BLOCK-START (taeglich 06:00 Uhr von GitHub Actions ersetzt) ===
-const SNAP_DATE = "26. Nov. 2026, 05:01 Uhr";
+const SNAP_DATE = "26. Nov. 2026, 05:27 Uhr";
 const SNAP_STATUS = "neu";
 const STUDIES = [
   {
-    journal:"Neurol Sci", year:"2026", pmid:"43079149",
-    author:"Wan S et al.", pubdate:"25.11.2026",
-    added:"24.11.2026",
-    title:"Nicht-invasive Hirnstimulation plus Aufgabentraining nach Schlaganfall: Motor verbessert, Funktion unklar",
-    sum:"Metaanalyse von 14 randomisierten kontrollierten Studien (1.029 Patienten) zur Kombination nicht-invasiver Hirnstimulation mit aufgabenorientiertem Training versus Kontrollen nach Schlaganfall; motorische Funktion (Fugl-Meyer), funktionale Aufgabenleistung, Alltagsaktivitäten (MBI) gemessen.",
-    result:"Gegen Schein-Stimulation: Kombinierte Behandlung verbesserte motorische Funktion (SMD 0,77; 95%-KI 0,46–1,07), aber nicht funktionale Aufgabenleistung (SMD 0,28; 95%-KI −0,10–0,66). Alltagsaktivitäten profitierten (MD 9,35; 95%-KI 6,26–12,44). Keine Synergieeffekte nachgewiesen, größere Studien mit standardisierter Dosis nötig.",
-    transfer:"Internationale Studienpool, Methoden systemübergreifend vergleichbar."
-  },
-  {
-    journal:"Front Neurol", year:"2026", pmid:"43080274",
-    author:"Zhang Y et al.", pubdate:"10.11.2026",
+    journal:"CNS Neurosci Ther", year:"2026", pmid:"43081948",
+    author:"Zhao C et al.", pubdate:"Nov. 2026",
     added:"25.11.2026",
-    title:"Thrombolyse bei kleinem Hirninfarkt: kein Vorteil, erhöhte Blutungsrisiken",
-    sum:"Metaanalyse von 16 Studien mit 9.680 Patienten zur intravenösen Alteplase versus Kontrolle bei leichtem Hirninfarkt (NIHSS ≤5).",
-    result:"Alteplase zeigte keinen signifikanten Vorteil für exzellentes Outcome (mRS 0–1: OR 1,05; 95%-KI 0,83–1,33) oder gutes Outcome (mRS 0–2: OR 0,96; 95%-KI 0,60–1,53), erhöhte aber das Risiko symptomatischer intrakranieller Blutungen signifikant (OR 6,01; 95%-KI 2,60–13,89). Diese Ergebnisse sprechen gegen routinemäßige Thrombolyse bei unkompliziertem kleinem Schlaganfall.",
-    transfer:"Internationale Datenpool, Ergebnisse unabhängig von Gesundheitssystem übertragbar."
+    title:"Vagusstimulation bei Kindern mit therapieresistentem Anfallsleiden: drei Antwortmuster",
+    sum:"Bidirektionale Kohortenstudie mit 284 Kindern mit therapieresistentem Anfallsleiden, die Vagusstimulation erhielten; Responsemuster über 60 Monate dokumentiert.",
+    result:"Ansprechquoten stiegen von 45,8% (6 Monate) auf 59,3% (60 Monate); Anfallsfreiheitsraten 9,9–18,7%. Drei Responsemuster identifiziert: bleibend ansprechend (38,7%), fluktuierend (24,6%), bleibend nicht ansprechend (36,6%). Frühe Effizienz (6 Monate) war prädiktiv für Langzeitanspruch (p&lt;0,001). Schwere Entwicklungsverzögerung, höhere Ausgangsanfallsfrequenz und Epilepsiechirurgie vor Implantation waren mit Nicht-Ansprechen assoziiert.",
+    transfer:"Reale Routinedaten aus China, zur deutschen Versorgung übertragbar."
   },
   {
     journal:"Front Neurol", year:"2026", pmid:"43080326",
@@ -2434,6 +2425,15 @@ const STUDIES = [
     transfer:"Chinesische Klinikdaten, Blutparameter international vergleichbar, Übernahme ohne Systemvorbehalt sinnvoll."
   },
   {
+    journal:"Front Neurol", year:"2026", pmid:"43080274",
+    author:"Zhang Y et al.", pubdate:"10.11.2026",
+    added:"25.11.2026",
+    title:"Thrombolyse bei kleinem Hirninfarkt: kein Vorteil, erhöhte Blutungsrisiken",
+    sum:"Metaanalyse von 16 Studien mit 9.680 Patienten zur intravenösen Alteplase versus Kontrolle bei leichtem Hirninfarkt (NIHSS ≤5).",
+    result:"Alteplase zeigte keinen signifikanten Vorteil für exzellentes Outcome (mRS 0–1: OR 1,05; 95%-KI 0,83–1,33) oder gutes Outcome (mRS 0–2: OR 0,96; 95%-KI 0,60–1,53), erhöhte aber das Risiko symptomatischer intrakranieller Blutungen signifikant (OR 6,01; 95%-KI 2,60–13,89). Diese Ergebnisse sprechen gegen routinemäßige Thrombolyse bei unkompliziertem kleinem Schlaganfall.",
+    transfer:"Internationale Datenpool, Ergebnisse unabhängig von Gesundheitssystem übertragbar."
+  },
+  {
     journal:"Front Neurol", year:"2026", pmid:"43080232",
     author:"Sheng X et al.", pubdate:"10.11.2026",
     added:"25.11.2026",
@@ -2443,28 +2443,37 @@ const STUDIES = [
     transfer:"Chinesische Rehabilitationsklinik, psychologische Mechanismen international übertragbar."
   },
   {
-    journal:"CNS Neurosci Ther", year:"2026", pmid:"43081948",
-    author:"Zhao C et al.", pubdate:"Nov. 2026",
-    added:"25.11.2026",
-    title:"Vagusstimulation bei Kindern mit therapieresistentem Anfallsleiden: drei Antwortmuster",
-    sum:"Bidirektionale Kohortenstudie mit 284 Kindern mit therapieresistentem Anfallsleiden, die Vagusstimulation erhielten; Responsemuster über 60 Monate dokumentiert.",
-    result:"Ansprechquoten stiegen von 45,8% (6 Monate) auf 59,3% (60 Monate); Anfallsfreiheitsraten 9,9–18,7%. Drei Responsemuster identifiziert: bleibend ansprechend (38,7%), fluktuierend (24,6%), bleibend nicht ansprechend (36,6%). Frühe Effizienz (6 Monate) war prädiktiv für Langzeitanspruch (p&lt;0,001). Schwere Entwicklungsverzögerung, höhere Ausgangsanfallsfrequenz und Epilepsiechirurgie vor Implantation waren mit Nicht-Ansprechen assoziiert.",
-    transfer:"Reale Routinedaten aus China, zur deutschen Versorgung übertragbar."
+    journal:"Neurol Sci", year:"2026", pmid:"43079149",
+    author:"Wan S et al.", pubdate:"25.11.2026",
+    added:"24.11.2026",
+    title:"Nicht-invasive Hirnstimulation plus Aufgabentraining nach Schlaganfall: Motor verbessert, Funktion unklar",
+    sum:"Metaanalyse von 14 randomisierten kontrollierten Studien (1.029 Patienten) zur Kombination nicht-invasiver Hirnstimulation mit aufgabenorientiertem Training versus Kontrollen nach Schlaganfall; motorische Funktion (Fugl-Meyer), funktionale Aufgabenleistung, Alltagsaktivitäten (MBI) gemessen.",
+    result:"Gegen Schein-Stimulation: Kombinierte Behandlung verbesserte motorische Funktion (SMD 0,77; 95%-KI 0,46–1,07), aber nicht funktionale Aufgabenleistung (SMD 0,28; 95%-KI −0,10–0,66). Alltagsaktivitäten profitierten (MD 9,35; 95%-KI 6,26–12,44). Keine Synergieeffekte nachgewiesen, größere Studien mit standardisierter Dosis nötig.",
+    transfer:"Internationale Studienpool, Methoden systemübergreifend vergleichbar."
+  },
+  {
+    journal:"Age Ageing", year:"2026", pmid:"43071806",
+    author:"Mathlin G et al.", pubdate:"31.10.2026",
+    added:"23.11.2026",
+    title:"Ethnische und sozioökonomische Ungleichheiten bei Demenz-Versorgung in Großbritannien",
+    sum:"Retrospektive Kohortenstudie zu Unterschieden in Inanspruchnahme von Gesundheits- und Pflegediensten bei Demenzkranken nach ethnischer Herkunft und regionaler Bevölkerungsdichte (N=30.704, Zeitraum 2015-2025, Nordwestlondon).",
+    result:"Schwarze Gruppen hatten 4 % mehr Hausarzt-Kontakte (IRR 1,04), Chinesische Gruppen 11-14 % weniger Kontakte zu allen Versorgungsangeboten; höhere ethnische Dichte assoziiert mit weniger Hausarzt-Kontakten bei Schwarzen (IRR 0,76). Soziale Pflegequoten höher bei Schwarzen (IRR 1,11). Die Befunde deuten auf Versorgungsungleichheiten hin, die durch höhere Bedarfe oder eingeschränkte Zugang erklärt sein können.",
+    transfer:"UK-Kohortendaten zu Demenzkranken; Ergebnisse auf strukturelle Versorgungsunterschiede übertragbar."
   },
 ];
 // === STUDIES-BLOCK-ENDE ===
 
 // Offene Foerderausschreibungen zum Thema — taeglich von scripts/radar_hinweis.py
 // === RADAR-BLOCK-START (taeglich von GitHub Actions ersetzt) ===
-const RADAR_STAND = "23.11.2026";
+const RADAR_STAND = "26.11.2026";
 const RADAR_URL = "https://wissen.m-vf.de/ausschreibungen.html#neuro";
 const RADAR_EIGENES = 18;
 const RADAR_ZUHAUSE = false;
-const RADAR_FRISTEN = [["2026-12-31", "2027-01-08"], ["2027-01-20"], ["2027-01-07", "2027-02-11"], [], [], [], [], [], ["2027-01-08"], [], [], ["2026-12-31", "2027-01-07", "2027-01-26", "2027-01-26", "2027-01-27"], ["2027-01-07", "2027-01-07", "2027-01-07", "2027-01-25", "2027-01-11", "2027-01-11", "2027-01-07", "2027-02-11"], ["2027-03-10"], ["2027-01-27", "2027-03-10"], [], [], ["2026-12-14", "2027-01-11", "2027-01-08", "2027-01-08", "2027-01-08", "2026-12-02"], [], ["2027-01-11", "2027-01-08", "2027-01-08", "2027-01-08"]];
+const RADAR_FRISTEN = [["2026-12-31"], ["2027-01-20"], ["2027-01-07", "2027-02-11"], [], [], [], [], [], [], [], [], ["2026-12-31", "2027-01-07", "2027-01-26", "2027-01-26", "2027-05-07"], ["2027-01-07", "2027-01-07", "2027-01-07", "2027-01-25", "2027-01-11", "2027-02-11", "2027-01-07", "2027-01-07"], [], [], [], [], ["2026-12-14", "2026-12-02", "2027-01-07"], [], ["2027-01-11", "2027-01-08", "2027-01-08", "2027-01-08"]];
 // === RADAR-BLOCK-ENDE ===
 
 // === ZULASSUNG-BLOCK-START (taeglich von GitHub Actions ersetzt) ===
-const ZUL_STAND = "25.11.2026";
+const ZUL_STAND = "26.11.2026";
 const ZUL_EIGENE = 0;
 const ZUL_GUTACHTEN = 0;
 const ZUL_ZULASSUNG = 0;
