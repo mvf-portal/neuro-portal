@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- erzeugt von hub-scripts/studienseiten.py -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://neuro.m-vf.de/</loc><lastmod>2026-11-27</lastmod></url>
-<url><loc>https://neuro.m-vf.de/studie/</loc><lastmod>2026-11-27</lastmod></url>
+<url><loc>https://neuro.m-vf.de/</loc><lastmod>2026-11-28</lastmod></url>
+<url><loc>https://neuro.m-vf.de/studie/</loc><lastmod>2026-11-28</lastmod></url>
 <url><loc>https://neuro.m-vf.de/neue-studien.html</loc></url>
 <url><loc>https://neuro.m-vf.de/newsletter.html</loc></url>
 <url><loc>https://neuro.m-vf.de/ueber.html</loc></url>
+<url><loc>https://neuro.m-vf.de/studie/43102870/</loc><lastmod>2026-11-28</lastmod></url>
+<url><loc>https://neuro.m-vf.de/studie/43102651/</loc><lastmod>2026-11-28</lastmod></url>
+<url><loc>https://neuro.m-vf.de/studie/43102168/</loc><lastmod>2026-11-28</lastmod></url>
+<url><loc>https://neuro.m-vf.de/studie/43099916/</loc><lastmod>2026-11-28</lastmod></url>
+<url><loc>https://neuro.m-vf.de/studie/43099621/</loc><lastmod>2026-11-28</lastmod></url>
+<url><loc>https://neuro.m-vf.de/studie/43079994/</loc><lastmod>2026-11-28</lastmod></url>
 <url><loc>https://neuro.m-vf.de/studie/43095329/</loc><lastmod>2026-11-27</lastmod></url>
 <url><loc>https://neuro.m-vf.de/studie/43092918/</loc><lastmod>2026-11-27</lastmod></url>
 <url><loc>https://neuro.m-vf.de/studie/43091571/</loc><lastmod>2026-11-27</lastmod></url>
